@@ -1,4 +1,4 @@
-# prototype sentimen analisis terhadap varian omicrom dari data twitter 
+# prototype sentimen analisis terhadap varian omicron dari data twitter 
 # menggunakan Naive Bayes classifier 
 
 1. crawling data cuitan di twitter tentang omicron menggunakan API Twitter
