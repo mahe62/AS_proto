@@ -2,7 +2,7 @@
 # menggunakan Naive Bayes classifier 
 
 1. crawling data cuitan di twitter tentang omicron menggunakan API Twitter
-2. melakukan labeling terhadap dataset
+2. melakukan labeling terhadap dataset (positive,netral,negative)
 3. melakukan analisis sentimen menggunakan NBC
 4. melakukan prediksi 
 
